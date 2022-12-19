@@ -1,0 +1,27 @@
+{
+  "name": "react-concurrent",
+  "version": "1.0.0",
+  "description": "A new React, made of TypeScript, with only concurrent mode, simple and step by step.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "TypeScript",
+    "concurrent",
+    "Learn"
+  ],
+  "author": "zhangchen12",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.45.1",
+    "@typescript-eslint/parser": "^5.45.1",
+    "eslint": "^8.29.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.6.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
